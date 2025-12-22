@@ -41,3 +41,11 @@ sie sind nicht sein Ursprung.
 - Wiederholungen finden ausschließlich im Modell statt.
 - Der Code ist bewusst modular aufgebaut, um Struktur sichtbar zu machen.
 
+## Nutzung
+
+Die lauffähigen Beispiele sind als Jupyter-Notebooks im Ordner `notebooks/` abgelegt.
+Sie dienen als Einstiegspunkt für Exploration und Experimente.
+
+Der Python-Code in `scr/Python/` ist modular aufgebaut und wird von den Notebooks verwendet.
+
+
