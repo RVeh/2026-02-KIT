@@ -2,6 +2,10 @@
 # Mehr als ein Testergebnis  
 ## Konfidenzintervalle im Unterricht erlebbar machen
 
+[![Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/RVeh/2026-02-KIT/HEAD
+)
+
 Vortrag am KIT, Februar 2026
 
 Dieses Repository enthält Materialien zu einem didaktischen Vortrag
